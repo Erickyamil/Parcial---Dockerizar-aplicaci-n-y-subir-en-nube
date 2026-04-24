@@ -18,3 +18,8 @@ Este repositorio contiene un ejercicio sencillo que incluye:
 
 <img width="694" height="200" alt="Captura de pantalla 2026-04-24 103245" src="https://github.com/user-attachments/assets/e9a7021f-c5e5-4a82-a02f-6797208b7718" />
 
+<img width="640" height="146" alt="image" src="https://github.com/user-attachments/assets/4a626bee-d24f-4e7e-821a-6722d5529d88" />
+
+<img width="1382" height="125" alt="image" src="https://github.com/user-attachments/assets/161f258b-69c2-4d20-957c-35ef7330e321" />
+
+
