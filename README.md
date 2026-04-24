@@ -12,14 +12,36 @@ Este repositorio contiene un ejercicio sencillo que incluye:
 5. **Distribución:** Construir la imagen y subirla a **Docker Hub**.
 
 ## Capturas del proceso
-<img width="1919" height="941" alt="Captura de pantalla 2026-04-24 103219" src="https://github.com/user-attachments/assets/b023da9f-62cf-4a84-858c-618c4e33a6fd" />
 
-<img width="1832" height="624" alt="Captura de pantalla 2026-04-24 103233" src="https://github.com/user-attachments/assets/4e73d4df-36bc-4c49-8b8c-6a90a6c35c0d" />
+*Fig. 1. Configuración inicial del proyecto en Spring Initializr.*
 
-<img width="694" height="200" alt="Captura de pantalla 2026-04-24 103245" src="https://github.com/user-attachments/assets/e9a7021f-c5e5-4a82-a02f-6797208b7718" />
+<br>
 
-<img width="640" height="146" alt="image" src="https://github.com/user-attachments/assets/4a626bee-d24f-4e7e-821a-6722d5529d88" />
+<img width="1832" height="624" alt="Paso 2" src="https://github.com/user-attachments/assets/4e73d4df-36bc-4c49-8b8c-6a90a6c35c0d" />
+  
+*Fig. 2. Clase controller.*
 
-<img width="1382" height="125" alt="image" src="https://github.com/user-attachments/assets/161f258b-69c2-4d20-957c-35ef7330e321" />
+<br>
 
+<img width="694" height="200" alt="Paso 3" src="https://github.com/user-attachments/assets/e9a7021f-c5e5-4a82-a02f-6797208b7718" />
+  
+*Fig. 3. Dockerfile (uso de una versión ligera de Eclipse).*
+
+<br>
+
+<img width="640" height="146" alt="Paso 4" src="https://github.com/user-attachments/assets/4a626bee-d24f-4e7e-821a-6722d5529d88" />
+  
+*Fig. 4. Imagen creada en Docker.*
+
+<br>
+
+<img width="1382" height="125" alt="Paso 5" src="https://github.com/user-attachments/assets/161f258b-69c2-4d20-957c-35ef7330e321" />
+  
+*Fig. 5. Imagen subida a Docker Hub.*
+
+<br>
+
+<img width="1919" height="808" alt="Paso 6" src="https://github.com/user-attachments/assets/e3edb3b9-8203-4dd4-ad46-26a278f9a03a" />
+  
+*Fig. 6. Ejecución de la aplicación en contenedor Docker.*
 
