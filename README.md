@@ -4,7 +4,6 @@ Construir una aplicación sencilla en Spring Boot (que envíe un saludo e indiqu
 
 ## Contenido
 Este repositorio contiene un ejercicio sencillo que incluye:
-## Pasos para el Despliegue de la App
 1. **Generar el proyecto:** Usar Spring Initializr y añadir la dependencia `Spring Web`.
 2. **Crear el controlador:** Implementar el `@RestController` con los endpoints necesarios.
 3. **Control de versiones:** Subir el código fuente a un repositorio remoto en **GitHub**.
